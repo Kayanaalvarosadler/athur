@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kayanaalvarosadler.github.io/athur/sitemap.xml
